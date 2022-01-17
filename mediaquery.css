@@ -242,3 +242,7 @@ header .nav-center input {
 .card-header:hover {
     cursor: pointer;
 }
+
+.categories {
+    overflow-x: auto;
+}
